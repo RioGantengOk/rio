@@ -20,7 +20,7 @@ do
    echo "loading" $(($loading))
    sleep 1
 done
-echo
+
 
 toilet -f big -F gay By Rio
 echo $green"Selamat Datang Bos"
